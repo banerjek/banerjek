@@ -1,4 +1,4 @@
-<h3 align="center">Professional librarian and technologist with more than 25 years experience<br />Lead Implementation Consultant for EBSCO Information Services. </h3>
+<h3 align="center">Professional librarian and technologist for over 25 years<br />Lead Implementation Consultant for EBSCO Information Services. </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=banerjek&show_icons=true" alt="banerjek" /></p>
 
 <!--
