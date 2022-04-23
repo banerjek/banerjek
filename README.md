@@ -2,6 +2,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=banerjek&show_icons=true" alt="banerjek" /></p>
 - 📝 Check out some of the stuff I wrote on <a href="https://www.worldcat.org/search?q=banerjee%2Ckyle&dblist=638&fq=ap%3A%22banerjee+kyle%22&qt=facet_ap%3A">WorldCat</a><br />
 - 💬 Ask me about libraries, technology, or the outdoors
+ <p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kyle-banerjee/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kyle-banerjee" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/493144/kyle-banerjee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="banerjek" height="30" width="30" /></a>
+</p>
 <!--
 **banerjek/banerjek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
