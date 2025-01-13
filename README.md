@@ -1,4 +1,4 @@
-<h3 align="center">Professional librarian and technologist for over 25 years<br />Senior Implementation Consultant for EBSCO Information Services. </h3>
+<h3 align="center">Professional librarian and technologist<br />Senior Implementation Consultant for EBSCO Information Services. </h3>
  <p align="center">
 
 - 📝 Check out some of the stuff I wrote on <a href="https://www.worldcat.org/search?q=banerjee%2Ckyle&dblist=638&fq=ap%3A%22banerjee+kyle%22&qt=facet_ap%3A">WorldCat</a><br />
