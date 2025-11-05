@@ -1,7 +1,7 @@
 <h3 align="center">Professional librarian and technologist<br />Senior Implementation Consultant for EBSCO Information Services. </h3>
  <p align="center">
 
-- 📝 Check out some of the stuff I wrote on <a href="https://www.worldcat.org/search?q=banerjee%2Ckyle&dblist=638&fq=ap%3A%22banerjee+kyle%22&qt=facet_ap%3A">WorldCat</a><br />
+- 📝 Check out some of the stuff I wrote on <a href="https://search.worldcat.org/search?q=au%3A%22banerjee%2C+kyle%22">WorldCat</a><br />
 - 💬 Ask me about libraries, technology, or the outdoors
 
 <!--
